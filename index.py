@@ -25,8 +25,6 @@ def calculator():
             print(f"{num1} / {num2} = {result}")
     else:
         print("Invalid operation. Please enter one of +, -, *, or /.")
-    
-        print("Invalid input. please enter numerical values.")
-        
+            
         
 calculator()
